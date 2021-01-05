@@ -1,0 +1,1 @@
+A program that directs a cashier how to give change. The program has two inputs: the amount due and the amount received form the customer. It displays the dollars, quarters, dimes, nickels, and pennies that the customer should receive in return.
