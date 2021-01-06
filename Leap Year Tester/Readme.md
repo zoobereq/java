@@ -1,0 +1,1 @@
+A script checking whether the input year is a leap year.
